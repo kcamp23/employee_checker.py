@@ -29,6 +29,5 @@ def checker():
         print("Please enter a valid response")
         checker()
 
-
 checker()
 exit()
